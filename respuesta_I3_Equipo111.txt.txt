@@ -46,3 +46,13 @@ git push
 
 Responde ALFA:
 G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+git checkout Fabiano
+git pull origin Fabiano
+echo "" >> Beta.txt
+echo "Francisco Cattaneo" >> Beta.txt
+ipconfig >> Beta.txt
+echo "" >> Beta.txt
+date >> beta.txt
+git add .
+git commit -m "Alfa: agrega info de Alfa.txt"
+git push
