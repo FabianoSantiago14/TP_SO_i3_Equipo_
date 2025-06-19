@@ -1,0 +1,44 @@
+Santiago, Fabiano, (c) Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\Santi>ipconfig
+
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::1cbc:9177:f9fd:e82f%18
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 9:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 10:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Wi-Fi:
+
+   Sufijo DNS específico para la conexión. . : home
+   Dirección IPv6 . . . . . . . . . . : 2800:810:4fd:2883:2040:49ec:176e:3773
+   Dirección IPv6 . . . . . . . . . . : 2800:810:4fd:2883:c830:d8a1:39b3:f2a5
+   Dirección IPv6 . . . . . . . . . . : fdaa:bbcc:ddee:0:a982:e755:f90:ad23
+   Dirección IPv6 temporal. . . . . . : 2800:810:4fd:2883:18b5:72a2:9ff3:908a
+   Dirección IPv6 temporal. . . . . . : fdaa:bbcc:ddee:0:18b5:72a2:9ff3:908a
+   Vínculo: dirección IPv6 local. . . : fe80::d2f4:15fd:d3a:5907%17
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.181
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::2cb:51ff:fe5e:83b6%17
+                                       192.168.0.1
+, 11:48
